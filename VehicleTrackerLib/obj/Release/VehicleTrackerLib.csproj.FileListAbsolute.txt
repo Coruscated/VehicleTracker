@@ -1,0 +1,3 @@
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLib\bin\Release\VehicleTrackerLib.dll
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLib\obj\Release\VehicleTrackerLib.dll
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLib\obj\Release\VehicleTrackerLib.csprojResolveAssemblyReference.cache

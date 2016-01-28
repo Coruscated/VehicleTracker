@@ -1,0 +1,7 @@
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\SampleVehicleTrackerSubscriber\bin\Release\SampleVehicleTrackerSubscriber.exe.config
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\SampleVehicleTrackerSubscriber\bin\Release\SampleVehicleTrackerSubscriber.exe
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\SampleVehicleTrackerSubscriber\bin\Release\SampleVehicleTrackerSubscriber.pdb
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\SampleVehicleTrackerSubscriber\bin\Release\VehicleTrackerLib.dll
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\SampleVehicleTrackerSubscriber\obj\Release\SampleVehicleTrackerSubscriber.csprojResolveAssemblyReference.cache
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\SampleVehicleTrackerSubscriber\obj\Release\SampleVehicleTrackerSubscriber.exe
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\SampleVehicleTrackerSubscriber\obj\Release\SampleVehicleTrackerSubscriber.pdb

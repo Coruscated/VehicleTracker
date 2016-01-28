@@ -1,0 +1,7 @@
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLibTests\bin\Release\VehicleTrackerLibTests.dll
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLibTests\bin\Release\VehicleTrackerLibTests.pdb
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLibTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLibTests\bin\Release\VehicleTrackerLib.dll
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLibTests\obj\Release\VehicleTrackerLibTests.csprojResolveAssemblyReference.cache
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLibTests\obj\Release\VehicleTrackerLibTests.dll
+x:\users\chaos\my documents\visual studio 2015\Projects\VehicleTrackerLib\VehicleTrackerLibTests\obj\Release\VehicleTrackerLibTests.pdb
